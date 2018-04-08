@@ -1,0 +1,21 @@
+{
+  "name": "pluralsight-single-page-app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jahaziel.vaz <jahaziel.vaz@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0"
+  }
+}
